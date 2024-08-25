@@ -1,4 +1,4 @@
-package attacker
+package barbarian
 
 import (
 	"sync/atomic"
