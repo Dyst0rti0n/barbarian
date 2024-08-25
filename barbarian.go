@@ -1,4 +1,4 @@
-package barbarian
+package main
 
 import (
 	"sync/atomic"
